@@ -1,0 +1,1 @@
+To get the IP address you can do ipconfig on the terminal of your computer. Below you, will see the IPv4 address. For example, if your IP address is 192.168.39.145 and Port Number is 5000 then the file-sharing server will be running at 192.168.39.145:5000
